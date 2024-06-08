@@ -12,7 +12,7 @@ Feel free to contact us if you want to chat or collaborate on an interesting pro
 - Discord: xorbit256ᴼᶠᶠᶤᶜᶤᵃˡ᲼#9716 (xorbit256)
 ---
 
-### My Brief Personal History
+### My Personal History
 I started studying coding when I was 13 years old. I started seriously studying it when I was 15 years old when I was involved in a website project for a game. Written in PHP, it was my first project and the first language I learned. That made me study more about HTML/CSS/JS and about managing PostgreSQL and connecting databases to websites. During 2019, I was assigned to build a game server system with C#. Between 2020 - 2023, I enrolled in the field of computer graphics.
 
 Currently, I have learned more about coding because I don't think I'm suitable for that job. What I am currently studying is a Front-End subject, and I will also study Back-End and other subjects. Now I will try to study as much as possible in order to fulfill my dream of becoming a Game Developer. This is a brief history of myself.
