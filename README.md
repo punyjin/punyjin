@@ -13,9 +13,14 @@ Feel free to contact us if you want to chat or collaborate on an interesting pro
 ---
 
 ### My Personal History
-I started studying coding when I was 13 years old. I started seriously studying it when I was 15 years old when I was involved in a website project for a game. Written in PHP, it was my first project and the first language I learned. That made me study more about HTML/CSS/JS and about managing PostgreSQL and connecting databases to websites. During 2019, I was assigned to build a game server system with C#. Between 2020 - 2023, I enrolled in the field of computer graphics.
+I started learning to code when I was 13. I began taking it more seriously at the age of 15 when I got involved in a website project for a game written in PHP. It was my first project, and it sparked my interest in programming. Learning PHP allowed me to delve into HTML/CSS/JS and managing PostgreSQL, connecting databases to websites.
 
-Currently, I have learned more about coding because I don't think I'm suitable for that job. What I am currently studying is a Front-End subject, and I will also study Back-End and other subjects. Now I will try to study as much as possible in order to fulfill my dream of becoming a Game Developer. This is a brief history of myself.
+In 2019, I was tasked with building a game server system, which required me to study C# more intensively.
+
+From 2020 to 2023, I pursued Computer Graphics studies, but I eventually switched my major to IT as I realized it was a better fit for me.
+
+Currently, I'm diving deeper into coding. In my classes, I'm focusing on Front-End development, and I plan to explore Back-End and other related subjects. I'm dedicated to learning as much as I can, both inside and outside the classroom, to pursue my dream of becoming a game developer. While I currently have classroom knowledge, I'm actively seeking to expand my skills. 
+That's a brief overview of my journey.
 
 ---
 <div style="text-align: center;">
