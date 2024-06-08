@@ -8,8 +8,8 @@ I'm Wapakrit, also known as xorbit.
 
 ### Contact Me
 Feel free to contact us if you want to chat or collaborate on an interesting project!
-- Github: github.com/punyjin
-- Discord: xorbit256ᴼᶠᶠᶤᶜᶤᵃˡ᲼#9716 (xorbit256)
+- Github: [github.com/punyjin](https://github.com/punyjin)
+- Discord: xorbit256ᴼᶠᶠᶤᶜᶤᵃˡ᲼#9716 [(xorbit256)](https://discord.gg/hmCWt8HUBe)
 ---
 
 ### My Personal History
