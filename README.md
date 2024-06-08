@@ -1,21 +1,22 @@
-Hello, my name is Wapakrit (xorbit). 
+### Hi there! 👋 
 
-==========================================================================================================================================
-My brief personal history
--------
-I started studying coding when I was 13 years old. 
-I started seriously studying it when I was 15 years old when I was involved in a website project for a game. Written in php, it was my first project and the first language I learned.
-That made me study more about html/css/js and about managing PostgreSQL and connecting databases to websites. And during 2019, I was assigned to build a game server system with C#.
-Between 2020 - 2023, I enrolled in the field. computer graphics
+I'm Wapakrit, also known as xorbit.
 
-Currently, I have learned more about coding. 
-Because I don't think I'm suitable for that job. 
-What I am currently studying is a Front-End subject and I will also study Back-End and other subjects.
-Now I will try to study as much as possible. 
-In order to be able to fulfill my dream of becoming a Game Developer, this is a brief history of myself.
-==========================================================================================================================================
+### About Me
+- 💻 I love coding and web development.
+- 🌱 Currently learning and improving skills in Front-End and Back-End.
+
+---
+
+### My Brief Personal History
+I started studying coding when I was 13 years old. I started seriously studying it when I was 15 years old when I was involved in a website project for a game. Written in PHP, it was my first project and the first language I learned. That made me study more about HTML/CSS/JS and about managing PostgreSQL and connecting databases to websites. During 2019, I was assigned to build a game server system with C#. Between 2020 - 2023, I enrolled in the field of computer graphics.
+
+Currently, I have learned more about coding because I don't think I'm suitable for that job. What I am currently studying is a Front-End subject, and I will also study Back-End and other subjects. Now I will try to study as much as possible in order to fulfill my dream of becoming a Game Developer. This is a brief history of myself.
+
+---
+
 <div style="text-align: center;">
-    <h1>My Skills</h1>
+    <h1>Skills & Tools</h1>
     <p align="left">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
         <img src="https://media.discordapp.net/attachments/1176216227853647944/1249031421343961128/c-sharp-c-icon-1822x2048-wuf3ijab.png?ex=6665d2a8&is=66648128&hm=77caea5701dd58c8da5787c98428e4fcbf510a1c1d44ec071bda5f27ab61f619&=&format=webp&quality=lossless&width=597&height=671" width="36" height="36" alt="C#" /></a>
@@ -29,12 +30,17 @@ In order to be able to fulfill my dream of becoming a Game Developer, this is a 
             <img src="https://media.discordapp.net/attachments/1176216227853647944/1249031671907487786/css-3-icon-726x1024-610441pl.png?ex=6665d2e4&is=66648164&hm=a49ab78645cee662fb3715f797701803455eff42656b1303e8610e41d55a0688&=&format=webp&quality=lossless&width=476&height=671" width="36" height="36" alt="CSS" /></a>      
         <a href="https://www.php.net/" target="_blank" rel="noreferrer">
             <img src="https://media.discordapp.net/attachments/1176216227853647944/1249031583814389921/5968332.png?ex=6665d2cf&is=6664814f&hm=74ce9bf8299675148d646558d6dc413f2d5a18cbb275e6412b2e590a10ca03f8&=&format=webp&quality=lossless" width="36" height="36" alt="PHP" /></a>      
-        <a href="https://www.adobe.com/th_th/products/photoshop.html" target="_blank" rel="noreferrer">
+        <a href="https://www.adobe.com/th_en/products/photoshop.html" target="_blank" rel="noreferrer">
             <img src="https://media.discordapp.net/attachments/1176216227853647944/1249032731950583958/ps_appicon.png?ex=6665d3e1&is=66648261&hm=46d5cbf17a17a419e49b3d154e581e662392da6332851bfe09616c98b7d332d7&=&format=webp&quality=lossless" width="36" height="36" alt="Adobe Photoshop"/></a>     
-        <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
+        <a href="https://www.adobe.com/th_en/products/premiere.html" target="_blank" rel="noreferrer">
             <img src="https://media.discordapp.net/attachments/1176216227853647944/1249033776445522070/1200px-Adobe_Premiere_Pro_CC_icon.png?ex=6665d4da&is=6664835a&hm=125f0365e0d686512c96b9b8618912339cd8ba00e8105302b33fc1b18f20d86b&=&format=webp&quality=lossless&width=688&height=671" width="36" height="36" alt="Adobe Premiere Pro"/></a>     
-        <a href="https://www.adobe.com/th_en/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://media.discordapp.net/attachments/1176216227853647944/1249033728072613928/images.png?ex=6665d4ce&is=6664834e&hm=4a59df5b06d12858c985cede27c037150b7c8ef21a83ffa6132e92b1a4db52d8&=&format=webp&quality=lossless" width="36" height="36" alt="Adobe After Effect"/></a>
+        <a href="https://www.adobe.com/th_en/products/aftereffects.html" target="_blank" rel="noreferrer">
+            <img src="https://media.discordapp.net/attachments/1176216227853647944/1249035083755815015/after-effects.png?ex=6665d611&is=66648491&hm=09e3108220fe276a705a5b61cf9347b4940522d4d522882f9831089e6145adac&=&format=webp&quality=lossless" width="36" height="36" alt="Adobe After Effect"/></a>
     </p>
-  </div>
-==========================================================================================================================================
+</div>
+---
+### Get in Touch
+Feel free to reach out if you want to chat or collaborate on interesting projects!
+- Github: github.com/punyjin
+- Discord: xorbit256ᴼᶠᶠᶤᶜᶤᵃˡ᲼#9716 (xorbit256)
  //I'll ​​come and update again.
