@@ -6,6 +6,10 @@ I'm Wapakrit, also known as xorbit.
 - 💻 I love coding and web development.
 - 🌱 Currently learning and improving skills in Front-End and Back-End.
 
+### Contact Me
+Feel free to contact us if you want to chat or collaborate on an interesting project!
+- Github: github.com/punyjin
+- Discord: xorbit256ᴼᶠᶠᶤᶜᶤᵃˡ᲼#9716 (xorbit256)
 ---
 
 ### My Brief Personal History
@@ -14,7 +18,6 @@ I started studying coding when I was 13 years old. I started seriously studying 
 Currently, I have learned more about coding because I don't think I'm suitable for that job. What I am currently studying is a Front-End subject, and I will also study Back-End and other subjects. Now I will try to study as much as possible in order to fulfill my dream of becoming a Game Developer. This is a brief history of myself.
 
 ---
-
 <div style="text-align: center;">
     <h1>Skills & Tools</h1>
     <p align="left">
@@ -38,9 +41,4 @@ Currently, I have learned more about coding because I don't think I'm suitable f
             <img src="https://media.discordapp.net/attachments/1176216227853647944/1249035083755815015/after-effects.png?ex=6665d611&is=66648491&hm=09e3108220fe276a705a5b61cf9347b4940522d4d522882f9831089e6145adac&=&format=webp&quality=lossless" width="36" height="36" alt="Adobe After Effect"/></a>
     </p>
 </div>
----
-### Get in Touch
-Feel free to reach out if you want to chat or collaborate on interesting projects!
-- Github: github.com/punyjin
-- Discord: xorbit256ᴼᶠᶠᶤᶜᶤᵃˡ᲼#9716 (xorbit256)
  //I'll ​​come and update again.
