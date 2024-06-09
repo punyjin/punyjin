@@ -13,14 +13,26 @@ Feel free to contact us if you want to chat or collaborate on an interesting pro
 ---
 
 ### My Personal History
-I started learning to code when I was 13. I began taking it more seriously at the age of 15 when I got involved in a website project for a game written in PHP. It was my first project, and it sparked my interest in programming. Learning PHP allowed me to delve into HTML/CSS/JS and managing PostgreSQL, connecting databases to websites.
+I started learning how to code when I was 13, and I started taking it more seriously when I was 15. When I was involved in a website project for a game written in PHP, it was my first project.
+And studying PHP helped me dive deeper into HTML/CSS/JS.
+and managed PostgreSQL, which connected the database to the website at the time.
 
-In 2019, I was tasked with building a game server system, which required me to study C# more intensively.
+In 2019, I was assigned to help build a game server system. 
+At that time it was very difficult because I had only just begun to learn how to use C#. 
+But luckily, my older siblings were always there to advise me on what to do and to help me.
+Really thanks to them. Anyway, I need to learn more about C# to use with Unity as well.
 
-From 2020 to 2023, I pursued Computer Graphics studies, but I eventually switched my major to IT as I realized it was a better fit for me.
+From 2020 to 2023, I studied Computer Graphics. 
+When I graduated from that field of study I changed my major to study IT. 
+Because I think it's more suitable for me.
+And it's my favorite thing to do in my free time.
 
-Currently, I'm diving deeper into coding. In my classes, I'm focusing on Front-End development, and I plan to explore Back-End and other related subjects. I'm dedicated to learning as much as I can, both inside and outside the classroom, to pursue my dream of becoming a game developer. While I currently have classroom knowledge, I'm actively seeking to expand my skills. 
-That's a brief overview of my journey.
+These days, I'm learning more about coding. in my class I am focused on Back-End development and I plan to explore Front-End and other related subjects. 
+I am dedicated to learning as much as possible both inside and outside of the classroom. 
+
+To pursue my dream of becoming a game developer. 
+Even though I currently have knowledge in the classroom But I am still actively trying to expand my skills. 
+That's a brief overview of my trip.
 
 ---
 <div style="text-align: center;">
