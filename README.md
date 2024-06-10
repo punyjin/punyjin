@@ -14,16 +14,17 @@ Feel free to contact us if you want to chat or collaborate on an interesting pro
 
 ### My Personal History
 I started learning how to code when I was 13, and I started taking it more seriously when I was 15. When I was involved in a website project for a game written in PHP, it was my first project.
-And studying PHP helped me dive deeper into HTML/CSS/JS.
+And studying PHP helped me dive deeper into HTML/CSS/JS.           
 and managed PostgreSQL, which connected the database to the website at the time.
 
 In 2019, I was assigned to help build a game server system. 
 At that time it was very difficult because I had only just begun to learn how to use C#. 
 But luckily, my older siblings were always there to advise me on what to do and to help me.
-Really thanks to them. Anyway, I need to learn more about C# to use with Unity as well.
+Really thanks to them.                        
+Anyway, I need to learn more about C# to use with Unity as well.
 
 From 2020 to 2023, I studied Computer Graphics. 
-When I graduated from that field of study I changed my major to study IT. 
+When I graduated from that field of study I changed my major to study IT.           
 Because I think it's more suitable for me.
 And it's my favorite thing to do in my free time.
 
