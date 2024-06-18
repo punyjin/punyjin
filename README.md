@@ -44,7 +44,7 @@ That's a brief overview of my trip.
         <a href="https://learn.microsoft.com/th-th/cpp/cpp/?view=msvc-160" target="_blank" rel="noreferrer">
             <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031500448661564/cpp_logo.png?ex=666f0d3b&is=666dbbbb&hm=af6c6d0ed087b9f95381ed51ce19b31b96442b591db6ff0d5ff785d5a937a024&" width="36" height="36" alt="C++"/></a>      
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://media.discordapp.net/attachments/1176216227853647944/1249031471524741120/javascript-logo.png?ex=6665d2b4&is=66648134&hm=7295fdaf817a281587f04b09649deae86d38fb022087119b2c247de51f5e007c&=&format=webp&quality=lossless&width=671&height=671" width="36" height="36" alt="JavaScript"/></a>      
+            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031471524741120/javascript-logo.png?ex=667258f4&is=66710774&hm=b0e369dbb3fcb2433455a93c7eb5113ee2a5b8c110ac7e6c9f76c4fc4d2a009c&" width="36" height="36" alt="JavaScript"/></a>      
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
             <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031542806675456/html-5-icon-726x1024-evem6gg5.png?ex=666f0d45&is=666dbbc5&hm=4b40dbec4059f46d79ac1ef36e81c7bbbb9744d03c0b2b89e183af8755ba1b47&" width="36" height="36" alt="HTML" /></a>      
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
