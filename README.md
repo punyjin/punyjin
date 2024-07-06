@@ -40,23 +40,23 @@ That's a brief overview of my trip.
     <h1>Skills & Tools</h1>
     <p align="left">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031421343961128/c-sharp-c-icon-1822x2048-wuf3ijab.png?ex=666f0d28&is=666dbba8&hm=343dab1870cbce26fb7f48762d87c38df47dd551d10119ea8d73daa4fb83081b&" width="36" height="36" alt="C#" /></a>
+        <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/C%23.png" width="36" height="36" alt="C#" /></a>
         <a href="https://learn.microsoft.com/th-th/cpp/cpp/?view=msvc-160" target="_blank" rel="noreferrer">
-            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031500448661564/cpp_logo.png?ex=666f0d3b&is=666dbbbb&hm=af6c6d0ed087b9f95381ed51ce19b31b96442b591db6ff0d5ff785d5a937a024&" width="36" height="36" alt="C++"/></a>      
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/cplus.png" width="36" height="36" alt="C++"/></a>      
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031471524741120/javascript-logo.png?ex=667258f4&is=66710774&hm=b0e369dbb3fcb2433455a93c7eb5113ee2a5b8c110ac7e6c9f76c4fc4d2a009c&" width="36" height="36" alt="JavaScript"/></a>      
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/js.png" width="36" height="36" alt="JavaScript"/></a>      
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031542806675456/html-5-icon-726x1024-evem6gg5.png?ex=666f0d45&is=666dbbc5&hm=4b40dbec4059f46d79ac1ef36e81c7bbbb9744d03c0b2b89e183af8755ba1b47&" width="36" height="36" alt="HTML" /></a>      
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/html.png" width="36" height="36" alt="HTML" /></a>      
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031671907487786/css-3-icon-726x1024-610441pl.png?ex=666f0d64&is=666dbbe4&hm=f441bb7871cfdc3332a11c71459e5674ff2ee173f75e150d545206000f230a74&" width="36" height="36" alt="CSS" /></a>      
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/css.png" width="36" height="36" alt="CSS" /></a>      
         <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249031583814389921/5968332.png?ex=666f0d4f&is=666dbbcf&hm=dea27dc4bc6ccc8a8235b99ae45637e19ff860e4bb0466b3ffb84aaf8c20c8f5&" width="36" height="36" alt="PHP" /></a>      
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/php.png" width="36" height="36" alt="PHP" /></a>      
         <a href="https://www.adobe.com/th_en/products/photoshop.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249032731950583958/ps_appicon.png?ex=666f0e61&is=666dbce1&hm=3d67cf82419e4d85ee749aff15d4fde96e301f81ada09e58de33e5faa7709ba3&" width="36" height="36" alt="Adobe Photoshop"/></a>     
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/ps.png" width="36" height="36" alt="Adobe Photoshop"/></a>     
         <a href="https://www.adobe.com/th_en/products/premiere.html" target="_blank" rel="noreferrer">
-            <img src="https://media.discordapp.net/attachments/1176216227853647944/1249033776445522070/1200px-Adobe_Premiere_Pro_CC_icon.png?ex=6665d4da&is=6664835a&hm=125f0365e0d686512c96b9b8618912339cd8ba00e8105302b33fc1b18f20d86b&=&format=webp&quality=lossless&width=688&height=671" width="36" height="36" alt="Adobe Premiere Pro"/></a>     
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/pr.png" width="36" height="36" alt="Adobe Premiere Pro"/></a>     
         <a href="https://www.adobe.com/th_en/products/aftereffects.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.discordapp.com/attachments/1176216227853647944/1249035083755815015/after-effects.png?ex=666f1091&is=666dbf11&hm=08647aa07e3276a7e4286a594a002b498be57ee0a4e8f5ce724135d3b1012982&" width="36" height="36" alt="Adobe After Effect"/></a>
+            <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/ae.png" width="36" height="36" alt="Adobe After Effect"/></a>
     </p>
 </div>
  //I'll ​​come and update again.
