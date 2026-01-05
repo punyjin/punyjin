@@ -1,35 +1,33 @@
-# Hi there! 👋  
-I'm **Wapakrit**, also known as **xorbit**. Welcome to my little corner of the digital world! I’m a coding enthusiast with a passion for web development and a dream to become a game developer.
+# Hi there! I'm Wapakrit (aka xorbit) 👋
+
+I'm a developer who loves web tech and has a dream of building great games. Welcome to my profile!
 
 ---
 
 ## About Me  
-- 💻 **Coding is my craft**: I love building things from scratch, whether it’s a sleek website or a game prototype.  
-- 🌱 **Always learning**: Currently sharpening my skills in **Front-End** and **Back-End** development, with an eye on game design.  
-- 🎮 **Ultimate Goal**: To create immersive games using tools like Unity and C#.  
+- 💻 **I build stuff**: Whether it's a website or a game script, I love making ideas work.
+- 🌱 **Learning**: Currently focusing on **Front-End** and **Back-End** web development.
+- 🎮 **Goal**: Mastering Unity and C# to become a Game Developer.
 
 ---
 
-## My Journey  
-### The Spark (Age 13)  
-My coding adventure began at **13**, when I stumbled upon basic programming tutorials online. I started with small scripts—think simple calculators and text-based games—fueled by curiosity and a love for problem-solving.
+## My Story so far
 
-### First Big Step (Age 15)  
-By **15**, I dove into my first real project: a website for a game, written in **PHP**. This wasn’t just code—it was my gateway to **HTML**, **CSS**, and **JavaScript**. I even tackled **PostgreSQL** to link the database to the site. It was messy, it was tough, but seeing it come to life was pure magic.
+**The Start (Age 13)** I started young with basic tutorials, writing small scripts and simple text-based games just to see if I could make them run.
 
-### Leveling Up (2019)  
-In **2019**, I joined a team to build a game server system. I was thrown into **C#**, a language I barely knew, and it felt like climbing a mountain with no gear. Luckily, my older siblings—my coding mentors—were there to guide me, debug my mistakes, and cheer me on. That project taught me resilience and teamwork, and it ignited my interest in C# for Unity.
+**First Real Project (Age 15)** I jumped into the deep end by making a website for a game using **PHP**. It forced me to learn **HTML, CSS, JavaScript, and PostgreSQL** all at once. The code wasn't pretty, but seeing it actually work was the best feeling.
 
-### Exploring New Horizons (2020–2023)  
-From **2020 to 2023**, I studied **Computer Graphics**, where I learned to use adobe animate animations, and other software like adobe photoshop , adobe illustrator. After graduating, I pivoted to **Information Technology (IT)**. Why? IT felt like the perfect fit for my coding passion, offering endless ways to create and innovate. It’s now my go-to hobby outside of class.
+**Leveling Up (2019)** I joined a team to work on a game server system. I barely knew **C#** back then, so it was a huge challenge. Luckily, my older siblings mentored me and helped me debug my mess. That experience sparked my serious interest in C# and Unity.
 
-### Today (2025)  
-As of **2025**, I’m deep into my IT studies, focusing on **Back-End development** in class—databases, APIs, server logic, you name it. Outside the classroom, I’m exploring **Front-End** design—making interfaces that are both functional and beautiful. This year, I’ve also been experimenting with AI tools to study coding, digging into various languages and frameworks with their help. I’ve learned that while AI can’t write top-tier code yet, it’s getting better at being a coding advisor—offering ideas, spotting errors, and speeding up my learning. Every line of code, whether handwritten or AI-assisted, brings me closer to my dream of crafting games that players can lose themselves in. I’m soaking up knowledge like a sponge, from tutorials to trial-and-error projects.
+**Design & IT (2020–2023)** I spent some time studying **Computer Graphics** (Adobe Animate, Photoshop, Illustrator) but eventually realized that coding is my real passion. I switched to **Information Technology (IT)** and haven't looked back.
+
+**Now (2025)** I'm deep into my IT studies, working on databases, APIs, and server logic. I'm also teaching myself modern Front-End tools. Lately, I've been using AI as a study assistant—it's great for spotting errors and explaining concepts, which helps me learn faster.
 
 ---
 
 ## Skills & Tools  
-Here’s what I bring to the table:  
+Here is my tech stack:
+
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/C%23.png" width="36" height="36" alt="C#" /></a>
@@ -51,17 +49,14 @@ Here’s what I bring to the table:
     <img src="https://raw.githubusercontent.com/punyjin/lastest_version_info/main/imgs/ae.png" width="36" height="36" alt="Adobe After Effect"/></a>
 </p>
 
-- **Languages**: C#, C++, JavaScript, PHP, HTML, CSS  
-- **Tools**: PostgreSQL, Unity (learning), Adobe Suite (Photoshop, Premiere Pro, After Effects)  
-- **Currently Exploring**: React for Front-End, Node.js for Back-End  
+- **Core**: C#, C++, JavaScript, PHP
+- **Web**: HTML, CSS, PostgreSQL, React (Learning), Node.js (Learning)
+- **Creative**: Adobe Photoshop, Premiere Pro, After Effects
+- **Game Dev**: Unity (Learning)
 
 ---
 
 ## Contact Me  
-Got an idea? Want to team up? Reach out!  
+Feel free to reach out!
 - **GitHub**: [github.com/punyjin](https://github.com/punyjin)  
 - **Discord**: xorbit256ᴼᶠᶠᶤᶜᶤᵃˡ᲼#9716 [(xorbit256)](https://discord.gg/hmCWt8HUBe)  
-
----
-
-*This is just the beginning—stay tuned for more updates as I level up my skills!*
